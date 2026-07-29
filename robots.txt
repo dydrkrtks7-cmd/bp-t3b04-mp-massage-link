@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hwagok-massage-note.mens-esthe.space/sitemap.xml
